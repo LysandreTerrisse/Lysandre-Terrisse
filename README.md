@@ -4,3 +4,4 @@
 - 📫 You can reach me by mail at lysandre@lesterrisse.com
 - 🎮 My Discord profile is lysandreterrisse
 - 📞 My phone number is 06 36 68 18 21
+- 💡 I'm striving for some ideas of Effective Altruism (although I think the community is unsustainable (to say the least))
