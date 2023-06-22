@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LysandreTerrisse
+- 👀 I’m interested in AI Safety
+- 🌱 I’m currently learning probability theory with the book written by E. T. Jaynes.
+- 📫 You can reach me at lysandre@lesterrisse.com
