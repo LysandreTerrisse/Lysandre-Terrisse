@@ -2,5 +2,5 @@
 - 👀 I’m interested in AI Safety
 - 🌱 I’m currently learning probability theory with the book written by E. T. Jaynes.
 - 📫 You can reach me by mail at lysandre@lesterrisse.com
-- 🎮 My Discord profile is Lysandre Terrisse#5552
+- 🎮 My Discord profile is lysandreterrisse
 - 📞 My phone number is 06 36 68 18 21
