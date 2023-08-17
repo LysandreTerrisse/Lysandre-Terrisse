@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LysandreTerrisse
 - 👀 I’m interested in AI Safety
-- 🌱 I’m currently learning probability theory with the book written by E. T. Jaynes.
+- 🌱 I’m currently designing a neural network using the book "Neural Networks and Deep Learning" by Michael Nielsen
 - 📫 You can reach me by mail at lysandre@lesterrisse.com
 - 🎮 My Discord profile is lysandreterrisse
 - 📞 My phone number is 06 36 68 18 21
