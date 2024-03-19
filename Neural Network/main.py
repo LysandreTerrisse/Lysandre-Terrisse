@@ -39,8 +39,8 @@ class Neural_network:
 		return gradient
 	
 	def gradient_descent(self, gradients, learning_rate):
-		self.W += sum([gradient.W for gradient in gradients]) * (learning_rate/-len(gradients))
-		self.b += sum([gradient.b for gradient in gradients]) * (learning_rate/-len(gradients))
+		self.W -= sum([gradient.W for gradient in gradients]) * (learning_rate/len(gradients))
+		self.b -= sum([gradient.b for gradient in gradients]) * (learning_rate/len(gradients))
 
 def learn(training_data, test_data, shape, learning_rate, minibatch_size):
 	neural_network = Neural_network(shape, True)
