@@ -32,7 +32,7 @@ class Neural_network:
 		gradient = Neural_network(self.shape)
 		
 		for i in range(len(self.shape)-1, 0, -1):
-			gradient.a[i] = (a[i] - y) / (a[i] * (1 - a[i]) + 0.00001) if i==len(self.shape)-1 else np.dot(W[i+1].T, gradient.b[i+1])
+			gradient.a[i] = (a[i] - y) / (a[i] * (1 - a[i]) + 1e-5) if i==len(self.shape)-1 else np.dot(W[i+1].T, gradient.b[i+1])
 			gradient.b[i] = gradient.a[i] * a[i] * (1 - a[i])
 			gradient.W[i] = np.outer(gradient.b[i], a[i-1])
 			
